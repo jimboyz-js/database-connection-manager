@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f244bb-9bb3-4441-899c-c38889d414f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jimboyz/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jimboyz/controller/AppController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jimboyz/images/edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jimboyz/model/DatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jimboyz/model/FileConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jimboyz/ui/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jimboyz/ui/ConnectionComponents.java" afterDir="false" />
-    </list>
+    <list default="true" id="70f244bb-9bb3-4441-899c-c38889d414f1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +85,7 @@
       <workItem from="1750313210839" duration="9567000" />
       <workItem from="1750742055300" duration="9775000" />
       <workItem from="1750826281154" duration="6623000" />
-      <workItem from="1750917898530" duration="299000" />
+      <workItem from="1750917898530" duration="826000" />
     </task>
     <servers />
   </component>
